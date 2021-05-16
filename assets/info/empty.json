@@ -1,0 +1,13 @@
+{
+  "title":"Book Book Book",
+  "subtitle": "Book Book Book",
+  "authors": "ttt",
+  "publisher": "ttt",
+  "isbn13":"N/A",
+  "pages":"100",
+  "year":"1999",
+  "rating":"100",
+  "desc": "In a RGB color space, hex #b19cd9 (also known as Light pastel purple) is composed of 69.4% red, 61.2% green and 85.1% blue. Whereas in a CMYK color space, it is composed of 18.4% cyan, 28.1% magenta, 0% yellow and 14.9% black. It has a hue angle of 260.7 degrees, a saturation of 44.5% and a lightness of 73.1%. #b19cd9 color hex could be obtained by blending #ffffff with #6339b3. Closest websafe color is: #9999cc. The hexadecimal color #b19cd9 has RGB values of R:177, G:156, B:217 and CMYK values of C:0.18, M:0.28, Y:0, K:0.15. Its decimal value is 11640025. Below, you can see some colors close to #b19cd9. Having a set of related colors can be useful if you need an inspirational alternative to your original color choice.",
+  "price":"10",
+  "image": ""
+}
